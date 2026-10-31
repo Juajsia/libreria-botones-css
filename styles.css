@@ -1,0 +1,165 @@
+.btn {
+    background-color: #1565C0;
+    color: #fff;
+    border-color: #1565C0;
+    /*     box-shadow: 0 5px 10px #111827; */
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+}
+
+/* categoría 1  */
+.btn-primary {
+    background-color: #1565C0;
+    color: #fff;
+    border-color: #1565C0;
+}
+
+.btn-secondary {
+    background-color: #D1D5DB;
+    color: #111827;
+    border-color: #D1D5DB;
+}
+
+.btn-success {
+    background-color: #16703C;
+    color: #fff;
+    border-color: #16703C;
+}
+
+.btn-danger {
+    background-color: #B91C1C;
+    color: #fff;
+    border-color: #B91C1C;
+}
+
+.btn-warning {
+    background-color: #FACC15;
+    color: #111827;
+    border-color: #FACC15;
+}
+
+.btn-info {
+    background-color: #67E8F9;
+    color: #111827;
+    border-color: #67E8F9;
+}
+
+.btn-dark {
+    background-color: #1F2937;
+    color: #fff;
+    border-color: #1F2937;
+}
+
+.btn-light {
+    background-color: #F9FAFB;
+    color: #111827;
+    border-color: #6B7280;
+}
+
+.btn-text {
+    background-color: transparent;
+    border: none;
+    color: #1565C0;
+}
+
+.btn-custom {
+    background-color: #6D28D9;
+    color: #FFFFFF;
+    border-color: #6D28D9;
+}
+
+/* categoría 2 */
+
+.btn-outline {
+    background-color: transparent;
+    border-color: #1565C0;
+    color: #1565C0;
+}
+
+.btn-border-thick {
+    border: solid 4px #1565C0;
+}
+
+.btn-border-dashed {
+    border: dashed 3px #1565C0;
+}
+
+.btn-border-dotted {
+    border: dotted 3px #1565C0;
+}
+
+.btn-rounded {
+    border-radius: 5px;
+}
+
+.btn-pill {
+    border-radius: 45%;
+}
+
+.btn-circle {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+.btn-small {
+    font-size: xx-small;
+}
+
+.btn-large {
+    font-size: x-large;
+}
+
+.btn-full {
+    width: 100%;
+}
+
+/* categoría 3 */
+
+.btn-uppercase {
+    text-transform: uppercase;
+}
+
+.btn-spaced {
+    letter-spacing: 2px;
+}
+
+.btn-bold {
+    font-weight: bold;
+}
+
+.btn-elegant {
+    font-family: sans-serif;
+}
+
+.btn-underline {
+    text-decoration: underline;
+}
+
+.btn-shadow-soft {
+    box-shadow: 0px 5px 25px #111827;
+}
+
+.btn-shadow-strong {
+    box-shadow: 5px 5px 10px #111827;
+}
+
+.btn-shadow-color {
+    background-color: #1565C0;
+    color: #fff;
+    box-shadow: 0px 5px 10px #1565C0;
+}
+
+.btn-relief {
+
+    box-shadow: 
+    inset 0 2px 3px #ffffff66,
+    inset 0 -3px 5px #0000004d,
+    0 4px 6px #00000033;
+}
+
+.btn-text-glow {
+    background-color: #111827;
+    color: #fff;
+    text-shadow: 1px 2px 2px #67E8F9;
+}
